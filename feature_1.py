@@ -1,2 +1,1 @@
 Good Code
-Bad Code
